@@ -34,6 +34,10 @@ Draws a yellow triangle using GL_TRIANGLES.
 display():
 Clears the screen and calls all shape functions to display them.
 
+Grapgh Plot:
+<img width="975" height="468" alt="image" src="https://github.com/user-attachments/assets/c91d2e4d-0338-4bfa-b3e3-ee966e8f074e" />
+https://www.geogebra.org/
+
 REQUIREMENTS:
 
 Windows OS

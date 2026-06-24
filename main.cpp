@@ -4,7 +4,7 @@
 void AxisXY(){
 glLineWidth(0.1);
 
-glBegin(GL_LINES);
+glBegin(GL_LINES);//creates line 
 
 glColor3f(0.0f, 0.0f, 0.0f);
 
@@ -28,7 +28,7 @@ glEnd();
 void Square(){
 glLineWidth(2);
 
-glBegin(GL_POLYGON);
+glBegin(GL_POLYGON);//more the 4 points are used
 
 glColor3f(1.0f, 0.0f, 0.0f);
 
